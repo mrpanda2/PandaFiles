@@ -25,7 +25,7 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 
 ╭────[ 🔅FɪʟᴇSᴛᴏʀᴇBᴏᴛ🔅]────⍟
 │
-├🔸 My Name: [FileStore Bot](https://t.me/{BOT_USERNAME})
+├🔸 My Name: [FileStore Bot](https://t.me/{@dm_file_bot})
 │
 ├🔸 Language: [Python 3](https://www.python.org)
 │
@@ -33,11 +33,11 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 │
 ├🔹 Hosted On: [Heroku](https://heroku.com)
 │
-├🔸 Developer: [Predator HackerzZ](https://t.me/OwnYourBotz) 
+├🔸 Developer: [Predator HackerzZ](https://t.me/pandawiz2) 
 │
-├🔹 Bot Support: [Support Group](https://t.me/TeleRoid14)
+├🔹 Bot Support: [Support Group](https://t.me/+Yj-mWf3G0-RjZTM9)
 │
-├🔸 Bot Updates: [Bots Channel](https://t.me/TeleRoidGroup)
+├🔸 Bot Updates: [Bots Channel](https://t.me/+f5rYPEqX6Q9kMzVl)
 │
 ╰──────[ 😎 ]───────────⍟
 """
